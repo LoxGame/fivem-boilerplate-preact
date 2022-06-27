@@ -1,1 +1,1 @@
-"# fivem-boilerplate-preact" 
+# fivem-boilerplate-preact
